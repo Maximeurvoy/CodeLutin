@@ -20,13 +20,14 @@ body{
   margin-top: 5em;
 }
 h1{
-  color: #cd1861;
-  
+  color: #E65E01;
+  background-color: #E5E4D2;
   margin-left: 2em;
+  border: solid 2em #E5E4D2;
 }
 
 h2{
-  color: #DC83A3;
+  color: #216695;
   margin-left: 4em;
 }
 small{
